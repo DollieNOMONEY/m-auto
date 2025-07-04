@@ -1,6 +1,6 @@
 "use client"
 import Navigation from "./components/Navigation";
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect } from "react";
 
 export default function Home() {
   const videos = [
